@@ -23,6 +23,9 @@ All the colors are the same as the original themes, with three variations of the
 ### Minimal Blurred Dark Search
 ![minimal-blurred-dark-search](screenshots/minimal-blurred-dark-search.png)
 
+### What your XFDashboard settings should look like when you're done
+![settings](screenshots/settings.png)
+
 ## Installation
 ```
 $ git clone https://github.com/Maysunfalls/XFDashboard-Minimal-Theme
