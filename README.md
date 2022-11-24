@@ -48,7 +48,7 @@ Simply install xdotools if you don't have it already, and then place the script 
 You can find my full Fusuma config in the extras folder, it's named *full-config.yml*.
 You can find the Fusuma config just containing the shortcut in the extras folder, it's named *lite-config.yml*.
 
-Follow the steps above to setup the launch script, but don't assign a keyboard shortcut. Install and configure Fusuma. Either rename whichever of the config files you want to *config.yml*, or just copy the command from lite-config.yml and place it in your existing fusuma config. Go to /home/.config/fusuma/ If you're using my config, copy the renamed *config.yml* file into this folder. Open the config, and change the line: "path_to_launch_script/run.sh/", to wherever you placed the run.sh file in your own system. 
+Follow the steps above to setup the *launch script*, but don't assign a keyboard shortcut. Install and configure Fusuma. Either rename whichever of the config files you want to *config.yml*, or just copy the command from lite-config.yml and place it in your existing fusuma config. Go to /home/.config/fusuma/ If you're using my config, copy the renamed *config.yml* file into this folder. Open the config, and change the line: "path_to_launch_script/run.sh", to wherever you placed the run.sh file in your own system and save. 
 
 RESTART
 
