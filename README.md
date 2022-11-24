@@ -44,7 +44,7 @@ You can find this script in the extras folder, it's named *run.sh*.
 Simply install xdotools if you don't have it already, and then place the script wherever you want. You can then assign a shortcut to run the script through Settings-Keyboard-Application Shortcuts. **DISCLAIMER:** *The script doesn't seem to work reliably this way, so I use a Fusuma shortcut instead.*
 
 ### Fusuma Shortcut
-**REQUIRES Fusuma & xdotools & The launch script above**
+**REQUIRES Fusuma, xdotools & the launch script above**
 You can find my full Fusuma config in the extras folder, it's named *full-config.yml*.
 You can find the Fusuma config just containing the shortcut in the extras folder, it's named *lite-config.yml*.
 
