@@ -1,0 +1,37 @@
+# All the shortcuts I changed can be found in Settings-Window Manager-Keyboard
+swipe:
+  3:
+    left:
+      command: "xdotool key ctrl+alt+Right" # Switch to next workspace (I removed the shortcuts for Upper, Bottom, Left, Right Workspace, and reassigned this shortcut to Next Workspace)
+    right:
+      command: "xdotool key ctrl+alt+Left" # Switch to previous workspace (I removed the shortcuts for Upper, Bottom, Left, Right Workspace and reassigned this shortcut to Previous Workspace)
+    down:
+      command: "path_to_launch_script/run.sh" # Toggle XFDashboard
+  4:
+    left:
+      command: "xdotool key alt+Left" # Go back
+    right:
+      command: "xdotool key alt+Right" # Go forward
+    up:
+      command: "xdotool key ctrl+alt+d" # Toggle desktop (This shortcut has to be assigned, the name is Show Desktop)
+    down:
+      command: "xdotool key ctrl+space" # Search (My shortcut to launch ULauncher)
+#2 Finger Zoom
+pinch:
+  2:
+    begin:
+      command: "xdotool keydown ctrl"
+    in:
+      update:
+        command: "xdotool key plus"
+        interval: 0.75
+    out:
+      update:
+        command: "xdotool key minus"
+        interval: 0.75
+    end:
+      command: "xdotool keyup ctrl"
+
+threshold:
+  swipe: 0.5
+  pinch: 0.1

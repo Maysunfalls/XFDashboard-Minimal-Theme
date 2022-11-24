@@ -1,0 +1,4 @@
+swipe:
+  3:
+    down:
+      command: "path_to_launch_script/run.sh" # Toggle XFDashboard
