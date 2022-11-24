@@ -25,8 +25,8 @@ All the colors are the same as the original themes, with three variations of the
 
 ## Installation
 ```
-$ git clone https://github.com/MaysunFalls/XFDashboard-Minimal-Theme.git
-$ cd xfdashboard-minimal
+$ git clone https://github.com/Maysunfalls/XFDashboard-Minimal-Theme
+$ cd XFDashboard-Minimal-Theme
 $ sudo tar -xvf xfdashboard-minimal.tar.xz -C /usr/share/themes/
 ```
 Open XFDashboard settings and try out your new themes.
