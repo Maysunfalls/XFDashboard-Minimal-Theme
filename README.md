@@ -7,6 +7,14 @@ All the colors are the same as the original themes, with three variations of the
 - minimal-search - The normal version disables search, as I'm using Ulauncher, if you want the search functionality, you can use any of the search variants.
 - minimal - This is the standard background if you're getting a black background with the blurred variant.
 
+## Installation
+```
+$ git clone https://github.com/Maysunfalls/XFDashboard-Minimal-Theme
+$ cd XFDashboard-Minimal-Theme
+$ sudo tar -xvf xfdashboard-minimal.tar.xz -C /usr/share/themes/
+```
+Open XFDashboard settings and try out your new themes.
+
 ## Screenshots
 ### Minimal Dark
 ![minimal-dark](screenshots/minimal-dark.png)
@@ -25,14 +33,6 @@ All the colors are the same as the original themes, with three variations of the
 
 ### What your XFDashboard settings should look like when you're done
 ![settings](screenshots/settings.png)
-
-## Installation
-```
-$ git clone https://github.com/Maysunfalls/XFDashboard-Minimal-Theme
-$ cd XFDashboard-Minimal-Theme
-$ sudo tar -xvf xfdashboard-minimal.tar.xz -C /usr/share/themes/
-```
-Open XFDashboard settings and try out your new themes.
 
 ## Extras
 **HIGHLY RECOMMENDED TO RUN XFDASHBOARD IN DAEMON MODE**
